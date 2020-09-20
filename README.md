@@ -100,3 +100,10 @@ script. It needs a dictionary of valid words, which is provided in
 `dictionary.txt`. If the script produces a false positive (say, you used word
 `BTreeMap` which the script considers invalid), you need to add this word to
 `dictionary.txt` (keep the sorted order for consistency).
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
